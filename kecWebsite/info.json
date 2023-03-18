@@ -1,0 +1,7 @@
+{
+    "EMAIL_USE_TLS": true,
+    "EMAIL_HOST": "smtp.gmail.com",
+    "EMAIL_HOST_USER": "kan076bctmp1@kec.edu.np",
+    "EMAIL_HOST_PASSWORD": "kecwebsite123",
+    "EMAIL_PORT": 587
+}
